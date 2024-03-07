@@ -1,0 +1,28 @@
+h1 {
+    background-color: rgb(243, 234, 155);
+    text-align: center;
+    
+}
+
+body {
+    background-color:lightyellow;
+}
+
+.introduction {
+    font-size: 18px;
+}
+
+h2 {
+    background-color: rgb(243, 234, 155);
+    text-align: center;
+}
+
+ul {
+    background-color: lightyellow;
+    font-size: 18px;
+}
+
+ol {
+    background-color: lightyellow;
+    font-size: 18px;
+}
